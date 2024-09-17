@@ -9,7 +9,7 @@
   "width": 1600,
   "height": 800,
   "data": {
-    "url": "Dataset/data.csv"
+    "url": "Dataset\\merged_medals_population.csv"
   },
   "transform": [
     {
@@ -57,11 +57,17 @@
       {"field": "Silver Medal", "type": "quantitative", "title": "Silver Medals"},
       {"field": "Bronze Medal", "type": "quantitative", "title": "Bronze Medals"},
       {"field": "Total", "type": "quantitative", "title": "Total Medals"},
-      {"field": "total_population", "type": "quantitative", "title": "Population"},
+      {
+        "field": "total_population",
+        "type": "quantitative",
+        "title": "Population",
+        "format": ","
+      },
       {
         "field": "medals_per_capita",
         "type": "quantitative",
-        "title": "Medals per Million People"
+        "title": "Medals per Million People",
+        "format": ".2f"
       }
     ]
   }

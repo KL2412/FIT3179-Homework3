@@ -1,0 +1,250 @@
+country_long,country_code,id,total_population
+Afghanistan,AFG,4,42239854.0
+Åland Islands,ALA,248,0.0
+Albania,ALB,8,2745972.0
+Algeria,DZA,12,45606480.0
+American Samoa,ASM,16,43914.0
+Andorra,AND,20,80088.0
+Angola,AGO,24,36684202.0
+Anguilla,AIA,660,0.0
+Antarctica,ATA,10,0.0
+Antigua and Barbuda,ATG,28,94298.0
+Argentina,ARG,32,46654581.0
+Armenia,ARM,51,2777970.0
+Aruba,ABW,533,106277.0
+Australia,AUS,36,26638544.0
+Austria,AUT,40,9132383.0
+Azerbaijan,AZE,31,10112555.0
+Bahamas,BHS,44,412623.0
+Bahrain,BHR,48,1485509.0
+Bangladesh,BGD,50,172954319.0
+Barbados,BRB,52,281995.0
+Belarus,BLR,112,9178298.0
+Belgium,BEL,56,11822592.0
+Belize,BLZ,84,410825.0
+Benin,BEN,204,13712828.0
+Bermuda,BMU,60,63489.0
+Bhutan,BTN,64,787424.0
+"Bolivia, Plurinational State of",BOL,68,12388571.0
+"Bonaire, Sint Eustatius and Saba",BES,535,0.0
+Bosnia and Herzegovina,BIH,70,3210847.0
+Botswana,BWA,72,2675352.0
+Bouvet Island,BVT,74,0.0
+Brazil,BRA,76,216422446.0
+British Indian Ocean Territory,IOT,86,0.0
+Brunei Darussalam,BRN,96,452524.0
+Bulgaria,BGR,100,6430370.0
+Burkina Faso,BFA,854,23251485.0
+Burundi,BDI,108,13238559.0
+Cabo Verde,CPV,132,598682.0
+Cambodia,KHM,116,16944826.0
+Cameroon,CMR,120,28647293.0
+Canada,CAN,124,40097761.0
+Cayman Islands,CYM,136,69310.0
+Central African Republic,CAF,140,5742315.0
+Chad,TCD,148,18278568.0
+Chile,CHL,152,19629590.0
+China,CHN,156,1410710000.0
+Christmas Island,CXR,162,0.0
+Cocos (Keeling) Islands,CCK,166,0.0
+Colombia,COL,170,52085168.0
+Comoros,COM,174,852075.0
+Congo,COG,178,6106869.0
+"Congo, Democratic Republic of the",COD,180,102262808.0
+Cook Islands,COK,184,0.0
+Costa Rica,CRI,188,5212173.0
+Côte d'Ivoire,CIV,384,28873034.0
+Croatia,HRV,191,3853200.0
+Cuba,CUB,192,11194449.0
+Curaçao,CUW,531,147862.0
+Cyprus,CYP,196,1260138.0
+Czechia,CZE,203,10873689.0
+Denmark,DNK,208,5946952.0
+Djibouti,DJI,262,1136455.0
+Dominica,DMA,212,73040.0
+Dominican Republic,DOM,214,11332972.0
+Ecuador,ECU,218,18190484.0
+Egypt,EGY,818,112716598.0
+El Salvador,SLV,222,6364943.0
+Equatorial Guinea,GNQ,226,1714671.0
+Eritrea,ERI,232,3748901.0
+Estonia,EST,233,1366188.0
+Eswatini,SWZ,748,1210822.0
+Ethiopia,ETH,231,126527060.0
+Falkland Islands (Malvinas),FLK,238,0.0
+Faroe Islands,FRO,234,53270.0
+Fiji,FJI,242,936375.0
+Finland,FIN,246,5584264.0
+France,FRA,250,68170228.0
+French Guiana,GUF,254,0.0
+French Polynesia,PYF,258,308872.0
+French Southern Territories,ATF,260,0.0
+Gabon,GAB,266,2436566.0
+Gambia,GMB,270,2773168.0
+Georgia,GEO,268,3760365.0
+Germany,DEU,276,84482267.0
+Ghana,GHA,288,34121985.0
+Gibraltar,GIB,292,32688.0
+Greece,GRC,300,10361295.0
+Greenland,GRL,304,56865.0
+Grenada,GRD,308,126183.0
+Guadeloupe,GLP,312,0.0
+Guam,GUM,316,172952.0
+Guatemala,GTM,320,17602431.0
+Guernsey,GGY,831,0.0
+Guinea,GIN,324,14190612.0
+Guinea-Bissau,GNB,624,2150842.0
+Guyana,GUY,328,813834.0
+Haiti,HTI,332,11724763.0
+Heard Island and McDonald Islands,HMD,334,0.0
+Holy See,VAT,336,0.0
+Honduras,HND,340,10593798.0
+Hong Kong,HKG,344,7536100.0
+Hungary,HUN,348,9589872.0
+Iceland,ISL,352,393600.0
+India,IND,356,1428627663.0
+Indonesia,IDN,360,277534122.0
+"Iran, Islamic Republic of",IRN,364,89172767.0
+Iraq,IRQ,368,45504560.0
+Ireland,IRL,372,5262382.0
+Isle of Man,IMN,833,84710.0
+Israel,ISR,376,9756700.0
+Italy,ITA,380,58761146.0
+Jamaica,JAM,388,2825544.0
+Japan,JPN,392,124516650.0
+Jersey,JEY,832,0.0
+Jordan,JOR,400,11337052.0
+Kazakhstan,KAZ,398,19900177.0
+Kenya,KEN,404,55100586.0
+Kiribati,KIR,296,133515.0
+"Korea, Democratic People's Republic of",PRK,408,26160821.0
+"Korea, Republic of",KOR,410,51712619.0
+Kuwait,KWT,414,4310108.0
+Kyrgyzstan,KGZ,417,7100800.0
+Lao People's Democratic Republic,LAO,418,7633779.0
+Latvia,LVA,428,1881750.0
+Lebanon,LBN,422,5353930.0
+Lesotho,LSO,426,2330318.0
+Liberia,LBR,430,5418377.0
+Libya,LBY,434,6888388.0
+Liechtenstein,LIE,438,39584.0
+Lithuania,LTU,440,2871897.0
+Luxembourg,LUX,442,668606.0
+Macao,MAC,446,704149.0
+Madagascar,MDG,450,30325732.0
+Malawi,MWI,454,20931751.0
+Malaysia,MYS,458,34308525.0
+Maldives,MDV,462,521021.0
+Mali,MLI,466,23293698.0
+Malta,MLT,470,553214.0
+Marshall Islands,MHL,584,41996.0
+Martinique,MTQ,474,0.0
+Mauritania,MRT,478,4862989.0
+Mauritius,MUS,480,1261041.0
+Mayotte,MYT,175,0.0
+Mexico,MEX,484,128455567.0
+"Micronesia, Federated States of",FSM,583,115224.0
+"Moldova, Republic of",MDA,498,2486891.0
+Monaco,MCO,492,36297.0
+Mongolia,MNG,496,3447157.0
+Montenegro,MNE,499,616177.0
+Montserrat,MSR,500,0.0
+Morocco,MAR,504,37840044.0
+Mozambique,MOZ,508,33897354.0
+Myanmar,MMR,104,54577997.0
+Namibia,NAM,516,2604172.0
+Nauru,NRU,520,12780.0
+Nepal,NPL,524,30896590.0
+"Netherlands, Kingdom of the",NLD,528,17879488.0
+New Caledonia,NCL,540,267940.0
+New Zealand,NZL,554,5223100.0
+Nicaragua,NIC,558,7046310.0
+Niger,NER,562,27202843.0
+Nigeria,NGA,566,223804632.0
+Niue,NIU,570,0.0
+Norfolk Island,NFK,574,0.0
+North Macedonia,MKD,807,1811980.0
+Northern Mariana Islands,MNP,580,49796.0
+Norway,NOR,578,5519594.0
+Oman,OMN,512,4644384.0
+Pakistan,PAK,586,240485658.0
+Palau,PLW,585,18058.0
+"Palestine, State of",PSE,275,5165775.0
+Panama,PAN,591,4468087.0
+Papua New Guinea,PNG,598,10329931.0
+Paraguay,PRY,600,6861524.0
+Peru,PER,604,34352719.0
+Philippines,PHL,608,117337368.0
+Pitcairn,PCN,612,0.0
+Poland,POL,616,36685849.0
+Portugal,PRT,620,10525347.0
+Puerto Rico,PRI,630,3205691.0
+Qatar,QAT,634,2716391.0
+Réunion,REU,638,0.0
+Romania,ROU,642,19056116.0
+Russian Federation,RUS,643,143826130.0
+Rwanda,RWA,646,14094683.0
+Saint Barthélemy,BLM,652,0.0
+"Saint Helena, Ascension and Tristan da Cunha",SHN,654,0.0
+Saint Kitts and Nevis,KNA,659,47755.0
+Saint Lucia,LCA,662,180251.0
+Saint Martin (French part),MAF,663,32077.0
+Saint Pierre and Miquelon,SPM,666,0.0
+Saint Vincent and the Grenadines,VCT,670,103698.0
+Samoa,WSM,882,225681.0
+San Marino,SMR,674,33642.0
+Sao Tome and Principe,STP,678,231856.0
+Saudi Arabia,SAU,682,36947025.0
+Senegal,SEN,686,17763163.0
+Serbia,SRB,688,6618026.0
+Seychelles,SYC,690,119773.0
+Sierra Leone,SLE,694,8791092.0
+Singapore,SGP,702,5917648.0
+Sint Maarten (Dutch part),SXM,534,41163.0
+Slovakia,SVK,703,5426740.0
+Slovenia,SVN,705,2120937.0
+Solomon Islands,SLB,90,740424.0
+Somalia,SOM,706,18143378.0
+South Africa,ZAF,710,60414495.0
+South Georgia and the South Sandwich Islands,SGS,239,0.0
+South Sudan,SSD,728,11088796.0
+Spain,ESP,724,48373336.0
+Sri Lanka,LKA,144,22037000.0
+Sudan,SDN,729,48109006.0
+Suriname,SUR,740,623236.0
+Svalbard and Jan Mayen,SJM,744,0.0
+Sweden,SWE,752,10536632.0
+Switzerland,CHE,756,8849852.0
+Syrian Arab Republic,SYR,760,23227014.0
+"Taiwan, Province of China",TWN,158,0.0
+Tajikistan,TJK,762,10143543.0
+"Tanzania, United Republic of",TZA,834,67438106.0
+Thailand,THA,764,71801279.0
+Timor-Leste,TLS,626,1360596.0
+Togo,TGO,768,9053799.0
+Tokelau,TKL,772,0.0
+Tonga,TON,776,107773.0
+Trinidad and Tobago,TTO,780,1534937.0
+Tunisia,TUN,788,12458223.0
+Türkiye,TUR,792,85326000.0
+Turkmenistan,TKM,795,6516100.0
+Turks and Caicos Islands,TCA,796,46062.0
+Tuvalu,TUV,798,11396.0
+Uganda,UGA,800,48582334.0
+Ukraine,UKR,804,37000000.0
+United Arab Emirates,ARE,784,9516871.0
+United Kingdom of Great Britain and Northern Ireland,GBR,826,68350000.0
+United States of America,USA,840,334914895.0
+United States Minor Outlying Islands,UMI,581,0.0
+Uruguay,URY,858,3423108.0
+Uzbekistan,UZB,860,36412350.0
+Vanuatu,VUT,548,334506.0
+"Venezuela, Bolivarian Republic of",VEN,862,28838499.0
+Viet Nam,VNM,704,98858950.0
+Virgin Islands (British),VGB,92,31538.0
+Virgin Islands (U.S.),VIR,850,104917.0
+Wallis and Futuna,WLF,876,0.0
+Western Sahara,ESH,732,0.0
+Yemen,YEM,887,34449825.0
+Zambia,ZMB,894,20569737.0
+Zimbabwe,ZWE,716,16665409.0
