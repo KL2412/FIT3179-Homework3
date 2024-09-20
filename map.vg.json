@@ -38,6 +38,20 @@
           "url": "ne_110m.json",
           "format": {
             "type": "topojson",
+            "feature": "ne_110m_admin_0_boundary_lines_land"
+          }
+        },
+        "mark": {
+          "type": "geoshape",
+          "stroke": "purple",
+          "strokeWidth": 2
+        }
+      },
+      {
+        "data": {
+          "url": "ne_110m.json",
+          "format": {
+            "type": "topojson",
             "feature": "ne_110m_graticules_30"
           }
         },
